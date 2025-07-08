@@ -1,0 +1,4 @@
+interface JewelleryShop{
+
+void doBusiness();
+}

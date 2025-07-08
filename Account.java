@@ -1,0 +1,4 @@
+interface Account{
+
+void withDraw();
+}

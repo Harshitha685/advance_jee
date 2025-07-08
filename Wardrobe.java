@@ -1,0 +1,6 @@
+interface Wardrobe {
+
+void open();
+
+
+}

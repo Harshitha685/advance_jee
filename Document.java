@@ -1,0 +1,5 @@
+interface Document{
+
+boolean isValid();
+
+}

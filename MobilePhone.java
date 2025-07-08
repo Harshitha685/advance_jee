@@ -1,0 +1,3 @@
+interface MobilePhone {
+     void unlock();
+}
